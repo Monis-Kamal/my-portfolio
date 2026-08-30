@@ -68,8 +68,8 @@ function App() {
             <div className="glass-card">
 
               <div className="image-wrapper">
-                <img src='myPhoto' className="profile-image"></img>
-                <div className="home-avatar">MK</div>
+                <img src={myPhoto} className="profile-image"></img>
+
               </div>
               <div className="card-footer">
                 <h3>Monis Kamal</h3>
